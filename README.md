@@ -1,3 +1,3 @@
-# git_test
+# odin-recipes
 
-Hello Odin
+this is a test website while learning on the odin project
